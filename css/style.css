@@ -1,5 +1,5 @@
 html {
-   background: url(../images/ape.jpg) no-repeat center center fixed;
+   background: url(../images/monkey.jpg) no-repeat center center fixed;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
@@ -37,10 +37,13 @@ button:focus {
    display: none;
 }
 
-.togbutton {
+.togButton {
    border-radius: 25px;
    width: 100px;
    height: 100px;
+}
+.sendButton{
+	border-radius: 25px;
 }
 
 .mt50 {
